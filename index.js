@@ -1,2 +1,4 @@
 // write your code below!
-function happHolidays 
+function happHolidays() {
+  "Happy Holidays!"
+} 
